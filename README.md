@@ -4,7 +4,7 @@ This repo is intended to provide a directory and list of awesome AI Employees AI
 increase working productivity. The list consists of different areas of workpace productivity including Sales & Marketing AI, 
 IT & Customer Support AI, HR & Recruitment AI Tools, General Productivity & Collaboration AI. 
 
-For navigation and search for the AI Agents website, reviews and demo APIs, please visit [DeepNLP AI Agent Search Portal](http://www.deepnlp.org/search/agent/) and [AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent).
+For navigation and search for the AI Agents website, reviews and demo APIs, please visit [DeepNLP AI Agent Search Portal](http://www.deepnlp.org/search/agent) and [AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent).
 
 ![Deepnlp AI Agent Marketplace and Search Portal](https://raw.githubusercontent.com/AI-Hub-Admin/AI-Agent-Employees/refs/heads/main/frontpage_ai_agent_marketplace.png)
 
@@ -226,25 +226,26 @@ website: https://www.slack.com
 
 content_tag_list: workplace,productivity,communication
 
-
-
-#### AI Agent Marketplace and Search Portal
-[AI Agent Marketplace and Search](http://www.deepnlp.org/search/agent/) <br>
+##### AI Agent Marketplace and Search
+[AI Agent Marketplace and Search](http://www.deepnlp.org/search/agent) <br>
 [Robot Search](http://www.deepnlp.org/search/robot) <br>
+[Equation and Academic search](http://www.deepnlp.org/search/equation) <br>
 [AI & Robot Comprehensive Search](http://www.deepnlp.org/search) <br>
-
+[AI & Robot Question](http://www.deepnlp.org/question) <br>
+[AI & Robot Community](http://www.deepnlp.org/community) <br>
+[AI Agent Marketplace Blog](http://www.deepnlp.org/blog/ai-agent-marketplace-and-search-portal-reviews-2025) <br>
 ##### AI Agent
+[AI Agent Reviews](http://www.deepnlp.org/store/ai-agent) <br>
+[AI Agent Publisher](http://www.deepnlp.org/store/pub?category=ai-agent) <br>
 [Microsoft AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-microsoft-ai-agent) <br>
 [Claude AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-claude-ai-agent) <br>
 [OpenAI AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-openai-ai-agent) <br>
 [AgentGPT AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-agentgpt) <br>
 [Saleforce AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-salesforce-ai-agent) <br>
-[Google AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-google-ai-agent) <br>
-[AI Agent Board Visualization](https://ai-hub-admin.github.io/agentboard) <br>
-[AI Agent Board](https://ai-hub-admin.github.io/agentboard) <br>
-[AI Agent Pro Master](https://agentpromaster.github.io/ai-agent) <br>
-[RAG Visualizer Agent](https://aiforce1024.github.io/rag_tutorial) <br>
-[Chat Visualizer Agent](https://llmpro70b.github.io/Chat-Visualizer) <br>
+[AI Agent Builder Reviews](http://www.deepnlp.org/store/ai-agent/ai-agent-builder) <br>
+##### Reasoning
+[OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
+[OpenAI o3 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o3) <br>
 ##### Chatbot
 [OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
 [ChatGPT User Reviews](http://www.deepnlp.org/store/pub/pub-chatgpt-openai) <br>
